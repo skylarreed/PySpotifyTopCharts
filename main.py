@@ -10,7 +10,7 @@ CLIENT_SECRET = spotify_info[1]
 REDIRECT_URI = 'http://localhost:8888/callback'
 
 scope = 'playlist-modify-public'
-username = 'yto6s694uk3nfyn5dun956vqw'
+username = '(YOUR SPOTIFY USERNAME)'
 
 year = input('What date would you like to get the top 100 from? (format - YYYY-MM-DD ex: 2018-05-23): ')
 
